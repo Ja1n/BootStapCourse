@@ -1,0 +1,24 @@
+{
+  "name": "bootstapcourse",
+  "version": "1.0.0",
+  "description": "dictionary for bootstrap course to test git",
+  "main": "index.html",
+  "scripts": {
+    "start" : "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite" : "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ja1n/BootStapCourse.git"
+  },
+  "author": "Akshit Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ja1n/BootStapCourse/issues"
+  },
+  "homepage": "https://github.com/Ja1n/BootStapCourse#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
